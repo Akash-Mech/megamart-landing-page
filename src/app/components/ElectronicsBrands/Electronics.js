@@ -8,7 +8,6 @@ import Xiaomi from "../../../../public/images/Xiaomi.png";
 import IphoneIcon from "../../../../public/images/IphoneIcon.png";
 import RealmeIcon from "../../../../public/images/RealmeIcon.png";
 import XiaomiIcon from "../../../../public/images/XiaomiIcon.png";
-import Image from "next/image";
 import BrandCard from "./BrandCard";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";

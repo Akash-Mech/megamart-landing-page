@@ -1,12 +1,10 @@
 import Link from "next/link";
 import React from "react";
-import { MdOutlineHorizontalRule } from "react-icons/md";
 import GalaxyS22 from "../../../../public/images/GalaxyS22.png";
 import GalaxyM13 from "../../../../public/images/GalaxyM13.png";
 import GalaxyM33 from "../../../../public/images/GalaxyM33.png";
 import GalaxyM53 from "../../../../public/images/GalaxyM53.png";
 import GalaxyUltra from "../../../../public/images/GalaxyUltra.png";
-import Image from "next/image";
 import PhoneCard from "./PhoneCard";
 
 function Phones() {

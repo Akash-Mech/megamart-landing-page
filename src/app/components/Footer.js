@@ -80,6 +80,8 @@ function Footer() {
               </ul>
             </div>
           </div>
+          <hr/>
+          <p className="text-white text-center mt-4">© 2022 All rights reserved. Reliance Retail Ltd.</p>
         </div>
       </div>
     </div>

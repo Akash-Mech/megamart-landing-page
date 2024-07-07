@@ -4,7 +4,6 @@ import { IoIosSearch } from "react-icons/io";
 import { TfiMenuAlt } from "react-icons/tfi";
 import { PiLineVerticalThin, PiShoppingCart } from "react-icons/pi";
 import { LuUser } from "react-icons/lu";
-import { CiShoppingCart } from "react-icons/ci";
 import Link from "next/link";
 
 

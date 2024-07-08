@@ -4,7 +4,7 @@ import MobileCategory from "../../../../public/images/MobileCategory.png";
 import Cosmetics from "../../../../public/images/Cosmetics.png";
 import Electronics from "../../../../public/images/Electronics.png";
 import Furniture from "../../../../public/images/Furniture.png";
-import Watches from "../../../../public/images/Watches.png";
+import Watches from "../../../../public/images/watches.png";
 import Decor from "../../../../public/images/Decor.png";
 import Accessories from "../../../../public/images/Accessories.png";
 import CatergoryCard from "./CatergoryCard";

@@ -41,7 +41,7 @@ function Navbar() {
     <div className="container mx-auto">
       <ul className="flex items-center justify-between overflow-x-auto gap-2 pb-4 ">
         {menuTitle.map((item, index) => (
-          <Link href={"/"}>
+          <Link href={"/"} key={index}>
             <li
               key={index}
               onClick={() => handleItemClick(index)}

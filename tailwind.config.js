@@ -11,6 +11,7 @@ module.exports = {
         "primary": "#008ECC",
         "text": "#66666",
         "heading": "#222222",
+        "background":"#f3fbf9",
       },
     },
   },

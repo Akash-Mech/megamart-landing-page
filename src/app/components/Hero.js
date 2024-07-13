@@ -6,11 +6,10 @@ import { Carousel } from "react-responsive-carousel";
 import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
 function Hero() {
-  const customPrevArrow = (onClickHandler, hasPrev, label) => (
+  const customPrevArrow = (onClickHandler) => (
     <button
       type="button"
       onClick={onClickHandler}
-      title={label}
       className="absolute left-0 top-1/2 transform -translate-y-1/2 p-2 bg-white bg-opacity-50 rounded-full text-black"
       style={{ zIndex: 10 }}
     >
@@ -18,11 +17,10 @@ function Hero() {
     </button>
   );
 
-  const customNextArrow = (onClickHandler, hasNext, label) => (
+  const customNextArrow = (onClickHandler) => (
     <button
       type="button"
       onClick={onClickHandler}
-      title={label}
       className="absolute right-0 top-1/2 transform -translate-y-1/2 p-2 bg-white bg-opacity-50 rounded-full text-black"
       style={{ zIndex: 10 }}
     >
@@ -38,6 +36,7 @@ function Hero() {
         showArrows={true}
         showStatus={false}
         infiniteLoop={true}
+        showThumbs={false}
       >
         <div className="relative">
           <div className="text-white first-slide py-12 space-y-4 px-10 flex flex-col items-start">

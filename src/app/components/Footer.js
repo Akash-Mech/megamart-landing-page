@@ -30,7 +30,7 @@ function Footer() {
         <div className="container mx-auto my-12">
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3  space-y-8 md:space-y-0 py-10">
             <div className="">
-              <Image src={Logo} />
+              <Image src={Logo} alt="Logo"/>
               <div className="space-y-2 py-4">
                 <h2 className="font-bold text-xl">Contact Us</h2>
                 <div className="flex gap-2 items-center">
@@ -50,7 +50,7 @@ function Footer() {
               </div>
               <div className="py-4">
                 <h2 className="font-bold text-xl">Download App</h2>
-                <Image src={App} className="py-4 w-[350px]" />
+                <Image src={App} alt="App" className="py-4 w-[350px]" />
               </div>
             </div>
 

@@ -57,7 +57,7 @@ function Essentials() {
           </Link>
         </div>
 
-        <div className="flex flex-wrap items-center md:justify-around lg:justify-stretch xl:justify-between  justify-around py-12 ">
+        <div className="flex flex-wrap items-center md:justify-around  xl:justify-between  justify-around py-12 ">
           {essentials.map((essential) => (
             <div key={essential.id}>
               <EssentialCard

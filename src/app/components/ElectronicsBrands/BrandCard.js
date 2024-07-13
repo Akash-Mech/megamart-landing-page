@@ -11,7 +11,7 @@ function BrandCard({ name, image, icon }) {
             <h2 className="text-base font-semibold pt-2 text-white bg-[#494949] w-fit p-1 md:p-2 rounded-md">
               {name}
             </h2>
-            <Image src={icon} className="h-4 md:h-auto text-base text-heading font-bold" />
+            <Image src={icon} alt={name} className="h-4 md:h-auto text-base text-heading font-bold" />
             <p className="font-semibold md:text-2xl text-primary">UP to 80% OFF</p>
           </div>
         </div>

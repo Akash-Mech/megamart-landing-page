@@ -12,7 +12,6 @@ The MegaMart Landing Page is a responsive e-commerce platform with a static data
 
 ## Important Packages
 
-    Beautiful carousels for product displays using 
 - **react-responsive-carousel:** 
 - **react-slick:** 
 

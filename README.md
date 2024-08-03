@@ -35,7 +35,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-![MegaMart Logo](https://akash05-portfolio.netlify.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmegamart.071fac32.png&w=2048&q=75)
+![MegaMart](https://akash05-portfolio.netlify.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmegamart.071fac32.png&w=2048&q=75)
 
 
 # MegaMart Landing Page
